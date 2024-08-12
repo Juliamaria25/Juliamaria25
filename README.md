@@ -1,0 +1,3 @@
+- 👋 Eu sou Julia Maria
+- 👀 Estou aprendendo o alura
+- 🌱 Esse perfil e para compartilhar meus projetos
